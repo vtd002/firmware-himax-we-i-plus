@@ -1,6 +1,6 @@
 # Edge Impulse firmware for Himax WE-I Plus
 
-[Edge Impulse](https://www.edgeimpulse.com) enables developers to create the next generation of intelligent device solutions with embedded Machine Learning. This repository contains the Edge Impulse firmware for the ST B-L475E-IOT01A development board. This device supports all Edge Impulse device features, including ingestion, remote management and inferencing.
+[Edge Impulse](https://www.edgeimpulse.com) enables developers to create the next generation of intelligent device solutions with embedded Machine Learning. This repository contains the Edge Impulse firmware for the Himax WE-I Plus development board. This device supports all Edge Impulse device features, including ingestion, remote management and inferencing.
 
 ## Requirements
 
